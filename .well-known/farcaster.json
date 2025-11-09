@@ -1,16 +1,22 @@
 {
-  "id": "token-info-miniapp",
-  "name": "Token Info",
-  "description": "Get live price, market cap and volume data of any token instantly.",
-  "iconUrl": "https://token-info-miniapp-navy.vercel.app/logo192.png",
-  "developer": {
-    "name": "Asif Paglahaguhagu",
-    "url": "https://token-info-miniapp-navy.vercel.app/"
+  "frame": {
+    "name": "BlackBox InFo",
+    "version": "1.0.0",
+    "iconUrl": "https://token-info-miniapp-navy.vercel.app/logo192.png",
+    "homeUrl": "https://token-info-miniapp-navy.vercel.app",
+    "splashImageUrl": "https://token-info-miniapp-navy.vercel.app/splash.png",
+    "splashBackgroundColor": "#6200EA",
+    "webhookUrl": "https://token-info-miniapp-navy.vercel.app/api/webhook",
+    "subtitle": "Live token price, market cap, volume etc. tracker",
+    "description": "Token Info Mini App lets you instantly view live crypto token data including price, market cap, liquidity, and trading volume.",
+    "primaryCategory": "finance"
   },
-  "homepageUrl": "https://token-info-miniapp-navy.vercel.app/",
-  "appUrl": "https://token-info-miniapp-navy.vercel.app/",
-  "platform": "web",
-  "version": "1.0.0"
+  "accountAssociation": {
+    "header": "eyJmaWQiOjExMzA2MjIsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgyQmU2NTVhMjUxYTQyY2E2YzJDMzA3NkFFN0I0NkM2QWUxRjNFYjgxIn0",
+    "payload": "eyJkb21haW4iOiJ0b2tlbi1pbmZvLW1pbmlhcHAtbmF2eS52ZXJjZWwuYXBwIn0",
+    "signature": "NC+eAPhPpdIG/FCxt2ZzKyLxp3etcZ1OCY2vPXk8u6hZT2JzZQlkVF9B57wVjFuhV9mw/EapOU74sjKSLbPreRs="
+  }
 }
+
 
 
