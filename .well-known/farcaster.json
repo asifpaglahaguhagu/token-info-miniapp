@@ -2,14 +2,15 @@
   "id": "token-info-miniapp",
   "name": "Token Info",
   "description": "Get live price, market cap and volume data of any token instantly.",
-  "iconUrl": "https://token-info-miniapp.vercel.app/logo192.png",
+  "iconUrl": "https://token-info-miniapp-navy.vercel.app/logo192.png",
   "developer": {
-    "name": "Zeph",
-    "url": "https://token-info-miniapp.vercel.app/"
+    "name": "Asif Paglahaguhagu",
+    "url": "https://token-info-miniapp-navy.vercel.app/"
   },
-  "homepageUrl": "https://token-info-miniapp.vercel.app/",
-  "appUrl": "https://token-info-miniapp.vercel.app/",
+  "homepageUrl": "https://token-info-miniapp-navy.vercel.app/",
+  "appUrl": "https://token-info-miniapp-navy.vercel.app/",
   "platform": "web",
   "version": "1.0.0"
 }
+
 
