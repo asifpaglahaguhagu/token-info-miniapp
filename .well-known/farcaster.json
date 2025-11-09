@@ -1,22 +1,26 @@
 {
   "frame": {
     "name": "BlackBox InFo",
-    "version": "1.0.0",
-    "iconUrl": "https://token-info-miniapp-navy.vercel.app/logo192.png",
+    "version": "1",
+    "iconUrl": "https://token-info-miniapp-navy.vercel.app/preview.png",
     "homeUrl": "https://token-info-miniapp-navy.vercel.app",
-    "splashImageUrl": "https://token-info-miniapp-navy.vercel.app/splash.png",
+    "imageUrl": "https://token-info-miniapp-navy.vercel.app/preview.png",
+    "buttonTitle": "Open Token Info",
+    "splashImageUrl": "https://token-info-miniapp-navy.vercel.app/logo192.png",
     "splashBackgroundColor": "#6200EA",
     "webhookUrl": "https://token-info-miniapp-navy.vercel.app/api/webhook",
     "subtitle": "Live token price, market cap, volume etc. tracker",
-    "description": "Token Info Mini App lets you instantly view live crypto token data including price, market cap, liquidity, and trading volume.",
-    "primaryCategory": "finance"
-  },
-  "accountAssociation": {
-    "header": "eyJmaWQiOjExMzA2MjIsInR5cGUiOiJhdXRoIiwia2V5IjoiMHgyQmU2NTVhMjUxYTQyY2E2YzJDMzA3NkFFN0I0NkM2QWUxRjNFYjgxIn0",
-    "payload": "eyJkb21haW4iOiJ0b2tlbi1pbmZvLW1pbmlhcHAtbmF2eS52ZXJjZWwuYXBwIn0",
-    "signature": "NC+eAPhPpdIG/FCxt2ZzKyLxp3etcZ1OCY2vPXk8u6hZT2JzZQlkVF9B57wVjFuhV9mw/EapOU74sjKSLbPreRs="
+    "description": "Token Info Mini App lets you instantly view live crypto token data including price, market cap, liquidity, trading volume. etc.",
+    "primaryCategory": "finance",
+    "screenshotUrls": [
+      "https://token-info-miniapp-navy.vercel.app/screenshot.png"
+    ],
+    "heroImageUrl": "https://token-info-miniapp-navy.vercel.app/hero.png",
+    "tags": [],
+    "tagline": "Instant Token Insights Price.",
+    "ogTitle": "BlackBox InFo TokenData.",
+    "ogDescription": "Track live prices, market cap and volume of any crypto token directly inside Farcaster.",
+    "ogImageUrl": "https://token-info-miniapp-navy.vercel.app/preview.png",
+    "castShareUrl": "https://warpcast.com/~/compose?text=Check+out+this+awesome+Token+Info+Mini+App:+https://token-info-miniapp-navy.vercel.app"
   }
-}
-
-
 
